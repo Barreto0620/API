@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+
+* {
+	font-family: 'junge, sans serif';
+}
+
+body {
+	background-image: url(img/image\ 5.jpg);
+}
+::-webkit-scrollbar { /* cor e tmanho da barra de rolagem */
+	width: 1vh;
+	background-color: #fee0ba;
+}
+
+::-webkit-scrollbar-thumb { /* edita a cor e tamanho da parte movel da barra de rolagem */
+	background-color: #592c11;
+	border-radius: 3px;
+}
+
+.logo img{
+	width: 30vh;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.container_continentes {
+text-align: center;
+background-color: transparent;
+padding: 3vh 0 0 0;
+}
+
+.button_continentes {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.button_continentes button {
+	border: none;
+	color: #592c11;
+	font-size: 3vh;
+	background-color: transparent;
+	cursor: pointer;
+	border-radius: 8px;
+	padding: 1vh 2vh;
+}
+
+.button_continentes button:hover {
+	color: #592c11;
+	background-color: #b57735ab;
+	transition: .3s;
+}
+
+
+.carousel {
+	padding: 2vh 0;
+}
+
+.line_header img{
+	width: 95%;
+	text-align: center;
+}
+
+.carousel-item img {
+	width: 100%;
+}
+
+.text_chart {
+text-align: center;
+}
+
+.text_chart h1 {
+	color: #322517;
+	font-weight: 400;
+	padding: 5vh 0;
+}
+
+.text_chart span {
+	font-weight: bold;
+	color: #592c11;
+}
+
+.chart {
+max-width: 150vh;
+position: relative;
+top: 50%;
+left: 50%;
+transform: translateX(-50%);
+}
+
+.footer_container {
+	background-color: #592c11;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 3vh;
+	padding: 2vh 0;
+}
+
+.text_footer {
+	color: #f4dfc8;
+}
+
+.img_footer img {
+	width: 15vh;
+}

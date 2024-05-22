@@ -1,0 +1,123 @@
+[
+		{
+			"id": "1",
+			"imagem": "https://www.campingsgrandsud.fr/wp-content/uploads/2019/04/banc-arguin-arcachon.jpg",
+			"nome": "Marrocos",
+			"dia_da_viagem": "15 de julho",
+			"ponto_turistico": "Marrakech",
+			"temporada": "Primavera e Outono",
+			"moeda": "Dirham marroquino",
+			"valor_da_viagem": "2500 USD",
+			"porque_visitar": "Mistura única de história, cultura e arquitetura, incluindo a Medina de Marrakech e os souks.",
+			"avaliacao": "4.5/5"
+		},
+		{
+			"id": "2",
+			"imagem": "https://imgmd.net/images/v1/guia/1684255/cidade-do-cabo-140-c.jpg",
+			"nome": "África do Sul",
+			"dia_da_viagem": "10 de setembro",
+			"ponto_turistico": "Cidade do Cabo",
+			"temporada": "Verão (Dezembro a Fevereiro)",
+			"moeda": "Rand sul-africano",
+			"valor_da_viagem": "3000 USD",
+			"porque_visitar": "Belezas naturais deslumbrantes, como a Table Mountain e as praias de Clifton.",
+			"avaliacao": "4.7/5"
+		},
+		{
+			"id": "3",
+			"imagem": "https://www.descubraturismo.com.br/wp-content/uploads/2018/04/masai-mara-elefant-capae.jpg",
+			"nome": "Quênia",
+			"dia_da_viagem": "5 de outubro",
+			"ponto_turistico": "Reserva Nacional de Masai Mara",
+			"temporada": "Dezembro a março (período de migração da vida selvagem)",
+			"moeda": "Xelim queniano",
+			"valor_da_viagem": "2800 USD",
+			"porque_visitar": "Safáris incríveis e a oportunidade de ver a migração anual dos gnus e zebras.",
+			"avaliacao": "4.6/5"
+		},
+		{
+			"id": "4",
+			"imagem": "https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/02/piramides-de-gize-o-que-sao-historia-como-surgiram-e-curiosidades.jpg",
+			"nome": "Egito",
+			"dia_da_viagem": "20 de janeiro",
+			"ponto_turistico": "Pirâmides de Gizé",
+			"temporada": "Inverno (Outubro a Abril)",
+			"moeda": "Libra egípcia",
+			"valor_da_viagem": "2700 USD",
+			"porque_visitar": "Incrível patrimônio histórico, incluindo as Pirâmides de Gizé e o Museu Egípcio no Cairo.",
+			"avaliacao": "4.8/5"
+		},
+		{
+			"id": "5",
+			"imagem": "https://gooutside.com.br/wp-content/uploads/sites/3/2022/08/shutterstock_662889487.jpg",
+			"nome": "Tanzânia",
+			"dia_da_viagem": "12 de agosto",
+			"ponto_turistico": "Monte Kilimanjaro",
+			"temporada": "Julho a outubro (estação seca)",
+			"moeda": "Xelim tanzaniano",
+			"valor_da_viagem": "3200 USD",
+			"porque_visitar": "Oportunidade única de escalar a montanha mais alta da África e explorar a rica vida selvagem dos parques nacionais.",
+			"avaliacao": "4.9/5"
+		},
+		{
+			"id": "6",
+			"imagem": "https://www.costacruzeiros.com/content/dam/costa/costa-magazine/articles-magazine/nature/deserto-da-namibia/deserto-del-namib_d.jpg.image.1296.974.high.jpg",
+			"nome": "Namíbia",
+			"dia_da_viagem": "25 de maio",
+			"ponto_turistico": "Deserto do Namibe",
+			"temporada": "Maio a setembro (estação seca)",
+			"moeda": "Dólar namibiano",
+			"valor_da_viagem": "2900 USD",
+			"porque_visitar": "Paisagens deslumbrantes, incluindo as dunas de areia vermelha de Sossusvlei e a vida selvagem do Parque Nacional Etosha.",
+			"avaliacao": "4.7/5"
+		},
+		{
+			"id": "7",
+			"imagem": "https://cdn.britannica.com/16/152516-050-93DB4049/Goree-Island-Senegal.jpg",
+			"nome": "Senegal",
+			"dia_da_viagem": "15 de julho",
+			"ponto_turistico": "Dakar",
+			"temporada": "Inverno (Dezembro a Fevereiro)",
+			"moeda": "Franco CFA",
+			"valor_da_viagem": "2600 USD",
+			"porque_visitar": "Diversidade cultural, praias deslumbrantes e a vibrante vida urbana de Dakar.",
+			"avaliacao": "4.6/5"
+		},
+		{
+			"id": "8",
+			"imagem": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5d/50/76/caption.jpg?w=1200&h=-1&s=1",
+			"nome": "Tunísia",
+			"dia_da_viagem": "8 de abril",
+			"ponto_turistico": "Cartago",
+			"temporada": "Primavera (Abril a Junho)",
+			"moeda": "Dinar tunisiano",
+			"valor_da_viagem": "2600 USD",
+			"porque_visitar": "Rica história e sítios arqueológicos fascinantes, incluindo as ruínas fenícias de Cartago.",
+			"avaliacao": "4.6/5"
+		},
+		{
+			"id": "9",
+			"imagem": "https://media.istockphoto.com/id/507449285/pt/foto/cataratas-vit%C3%B3ria-no-zimbabu%C3%A9.jpg?s=612x612&w=0&k=20&c=M5Nx2UO0bCvTFhhbdD84pv-aIxPtOH7ohqTo6AWnj88=",
+			"nome": "Zâmbia",
+			"dia_da_viagem": "17 de setembro",
+			"ponto_turistico": "Cataratas Vitória",
+			"temporada": "Abril a julho (após a estação das chuvas)",
+			"moeda": "Kwacha zambiano",
+			"valor_da_viagem": "3100 USD",
+			"porque_visitar": "Espectaculares Cataratas Vitória, uma das maiores quedas d'água do mundo.",
+			"avaliacao": "4.8/5"
+		},
+		{
+			"id": "10",
+			"imagem": "https://desertmauritanie.com/wp-content/uploads/2019/05/Le-Parc-National-du-Banc-d%E2%80%99Arguin.jpg",
+			"nome": "Mauritânia",
+			"dia_da_viagem": "30 de novembro",
+			"ponto_turistico": "Parque Nacional de Banc d'Arguin",
+			"temporada": "Novembro a abril (estação seca)",
+			"moeda": "Ouguiya mauritana",
+			"valor_da_viagem": "3000 USD",
+			"porque_visitar": "Reserva natural protegida com uma grande variedade de aves migratórias e paisagens costeiras únicas.",
+			"avaliacao": "4.5/5"
+		}
+	]
+

@@ -1,0 +1,112 @@
+[
+    {
+      "imagem2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVeI4-hhr1e-HmTxraAeHqgJg_2vPSS85pUCvAvsaIA&s",
+      "nome": "China",
+      "dia_viagem": "01 de junho de 2024",
+      "ponto_turistico": "Muralha da China",
+      "temporada": "Primavera",
+      "moeda": "Yuan",
+      "val_viagem": "7000.00",
+      "descricao": "País com uma rica cultura, monumentos históricos e ótima culinária original.",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Taj_Mahal_N-UP-A28-a.jpg/640px-Taj_Mahal_N-UP-A28-a.jpg",
+      "nome": "India",
+      "dia_viagem": "05 de abril de 2025",
+      "ponto_turistico": "Taj Mahal",
+      "temporada": "Verão",
+      "moeda": "Rupia Indiana",
+      "val_viagem": "5000.00",
+      "descricao": "País com diversos monumentos construídos pelo homem e também montanhas e belos rios naturais",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROO8fCdXlZk0Pj0_RHWT3Mofg6rFj2rBYEqPv9qI9O-Q&s",
+      "nome": "Japão",
+      "dia_viagem": "23 de dezembro de 2024",
+      "ponto_turistico": "Monte Fuji ",
+      "temporada": "Inverno",
+      "moeda": "Iene",
+      "val_viagem": "6000.00",
+      "descricao": "País com belezas naturais e diversos contrastes entre uma bela natureza no inverno e diversos parques cobertos de flores na primavera",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1X_UrGI5yBH4oQNAVM4QkA7N5Eq4rj5vU-9d_dLQxUw&s",
+      "nome": "Indonesia",
+      "dia_viagem": "02 de abril de 2025",
+      "ponto_turistico": "Borobudur",
+      "temporada": "Outono",
+      "moeda": "Rupia Indonesia",
+      "val_viagem": "5500.00",
+      "descricao": " País com diversos monumentos e muito conhecido por conta de seus festivais tradicionais",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://www.agoda.com/wp-content/uploads/2019/05/Gyeongbokgung-palace-Seoul-architecture-view.jpg",
+      "nome": "Coreia do Sul",
+      "dia_viagem": "05 de janeiro de 2025",
+      "ponto_turistico": "Gyeongbokgung",
+      "temporada": "Inverno",
+      "moeda": "Won-sul",
+      "val_viagem": "9000.00",
+      "descricao": "País muito conhecido por tendências na moda e na música atual entre jovens",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgOryFjhOE0zlNkGqynSKlT2Yavq0Blib0yj-JXMsHA&s",
+      "nome": "Tailandia",
+      "dia_viagem": "26 de maio de 2024",
+      "ponto_turistico": "Wat Arun",
+      "temporada": "Primavera",
+      "moeda": "Baht",
+      "val_viagem": "7000.00",
+      "descricao": " País com diversos templos originais budistas e marcado por suas belezas naturais",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://viajonarios.com/wp-content/uploads/2020/01/jardim-botanico-singapura.jpg",
+      "nome": "Singapura",
+      "dia_viagem": "10 de março de 2025",
+      "ponto_turistico": "Jardim Botanico de Singapura",
+      "temporada": "Verão",
+      "moeda": "Dolar de Singapura",
+      "val_viagem": "8000.00",
+      "descricao": "País com fauna e flora diversas, marcado por safáris e jardins",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://olhardigital.com.br/wp-content/uploads/2024/03/burj_khalifa-695x500.jpg",
+      "nome": "Emirados Arabes Unidos",
+      "dia_viagem": "12 de outubro de 2024", 
+      "ponto_turistico": "Burj Khalifa",
+      "temporada": "Outono",
+      "moeda": "Dirahm",
+      "val_viagem": "10000.00",
+      "descricao": " País com construções magníficas e avanços tecnológicos",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://media-cdn.tripadvisor.com/media/photo-s/16/72/22/6f/parque-rizal-manila-boulevard.jpg",
+      "nome": "Filipinas",
+      "dia_viagem": "01 de abril de 2025",
+      "ponto_turistico": "Parque Rizal",
+      "temporada": "Primavera",
+      "moeda": "Peso filipino",
+      "val_viagem": "8000.00",
+      "descricao": " País com diversos parques a céu aberto e muito conhecido por suas belas praias",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBNsu_R8KN09SLehXU7UO1_Acq37EBJQOCKhNh2dB6fQ&s",
+      "nome": "Maldivas",
+      "dia_viagem": "20 de dezembro de 2024",
+      "ponto_turistico": "Alimathaa",
+      "temporada": "Verão",
+      "moeda": "Rupia maldívia",
+      "val_viagem": "12000.00",
+      "descricao": " País muito conhecido por suas praias naturais e artificiais e também diversas florestas preservadas",
+      "avaliacao": 4.5
+    }
+  ]

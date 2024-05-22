@@ -1,0 +1,89 @@
+[
+    {
+      "nome": "Austrália",
+      "dia_da_viagem": "15 de julho de 2024",
+      "ponto_turistico": "Opera House em Sydney",
+      "temporada": "Inverno",
+      "moeda": "Dólar Australiano (AUD)",
+      "valor_da_viagem": "A partir de $2000",
+      "descricao": "A Austrália é conhecida por sua vasta diversidade, desde a icônica Grande Barreira de Corais até o Outback australiano.",
+      "img_link": "https://rics.scene7.com/is/image/rics/Modus_july22_sydneyoperahouse_landscape_header?$article-big-img-desktop$&qlt=85,1&op_sharpen=1",
+      "avaliacao": "4.7/5"
+    },
+    {
+      "nome": "Nova Zelândia",
+      "dia_da_viagem": "22 de agosto de 2024",
+      "ponto_turistico": "Fiordland National Park",
+      "temporada": "Inverno",
+      "moeda": "Dólar da Nova Zelândia (NZD)",
+      "valor_da_viagem": "A partir de $2500",
+      "descricao": "A Nova Zelândia é famosa por suas paisagens deslumbrantes, incluindo fiordes, montanhas cobertas de neve e praias intocadas. É um paraíso para os amantes da natureza e dos esportes ao ar livre.",
+      "img_link": "https://images.pexels.com/photos/4863995/pexels-photo-4863995.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "avaliacao": "4.9/5"
+    },
+    {
+      "nome": "Papua-Nova Guiné",
+      "dia_da_viagem": "10 de junho de 2024",
+      "ponto_turistico": "Vulcão Tavurvur",
+      "temporada": "Verão",
+      "moeda": "Kina Papua-Nova Guiné (PGK)",
+      "valor_da_viagem": "A partir de $1800",
+      "descricao": "Papua-Nova Guiné é conhecida por sua biodiversidade única, incluindo selvas tropicais, recifes de coral e uma rica cultura indígena.",
+      "img_link": "https://images.pexels.com/photos/4555543/pexels-photo-4555543.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "avaliacao": "4.5/5"
+    },
+    {
+      "nome": "Fiji",
+      "dia_da_viagem": "5 de setembro de 2024",
+      "ponto_turistico": "Blue Lagoon",
+      "temporada": "Verão",
+      "moeda": "Dólar de Fiji (FJD)",
+      "valor_da_viagem": "A partir de $1500",
+      "descricao": "Fiji é um paraíso tropical conhecido por suas praias de areia branca, águas cristalinas e hospitalidade calorosa.",
+      "img_link": "https://images.pexels.com/photos/346972/pexels-photo-346972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "avaliacao": "4.6/5"
+    },
+    {
+      "nome": "Ilhas Salomão",
+      "dia_da_viagem": "20 de julho de 2024",
+      "ponto_turistico": "Marovo Lagoon",
+      "temporada": "Inverno",
+      "moeda": "Dólar das Ilhas Salomão (SBD)",
+      "valor_da_viagem": "A partir de $1700",
+      "descricao": "As Ilhas Salomão são um destino de eco-turismo incrível, com suas lagoas de água cristalina, florestas tropicais exuberantes e rica cultura local.",
+      "img_link": "https://images.pexels.com/photos/5269340/pexels-photo-5269340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "avaliacao": "4.4/5"
+    },
+    {
+      "nome": "Vanuatu",
+      "dia_da_viagem": "3 de agosto de 2024",
+      "ponto_turistico": "Mont Yasur",
+      "temporada": "Inverno",
+      "moeda": "Vatu de Vanuatu (VUV)",
+      "valor_da_viagem": "A partir de $1600",
+      "descricao": "Vanuatu é um paraíso para os amantes da aventura, com seus vulcões ativos, praias isoladas e mergulho de classe mundial.",
+      "img_link": "https://images.pexels.com/photos/19984926/pexels-photo-19984926/free-photo-of-panorama-vista-paisagem-natureza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "avaliacao": "4.3/5"
+    },
+    {
+      "nome": "Nova Caledônia",
+      "dia_da_viagem": "12 de maio de 2024",
+      "ponto_turistico": "Île des Pins",
+      "temporada": "Outono",
+      "moeda": "Franco CFP (XPF)",
+      "valor_da_viagem": "A partir de $1900",
+      "descricao": "Nova Caledônia é conhecida por suas lagoas azul-turquesa, recifes de coral coloridos e cultura Kanak única.",
+      "img_link": "https://images.pexels.com/photos/1449596/pexels-photo-1449596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "avaliacao": "4.6/5"
+    },
+    {
+      "nome": "Tonga",
+      "dia_da_viagem": "8 de setembro de 2024",
+      "ponto_turistico": "Ha'atafu Beach",
+      "temporada": "Primavera",
+      "moeda": "Pa'anga de Tonga (TOP)",
+      "valor_da_viagem": "A partir de $1800",
+      "descricao": "Tonga é um destino paradisíaco, com suas praias de areia branca, águas cristalinas e vida marinha exuberante.",
+      "img_link": "https://static.poder360.com.br/2022/01/Tonga-848x477.jpg"
+		}
+	]

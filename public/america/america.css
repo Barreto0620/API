@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Junge&display=swap');
+
+* {
+	font-family: 'junge, sans serif';
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url(../img/image\ 5.jpg);
+}
+::-webkit-scrollbar { /* cor e tmanho da barra de rolagem */
+	width: 1vh;
+	background-color: #fee0ba;
+}
+
+::-webkit-scrollbar-thumb { /* edita a cor e tamanho da parte movel da barra de rolagem */
+	background-color: #592c11;
+	border-radius: 3px;
+}
+
+.logo img{
+	width: 30vh;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.container_continentes {
+text-align: center;
+background-color: transparent;
+padding: 3vh 0 0 0;
+}
+
+.button_continentes {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.button_continentes button {
+	border: none;
+	color: #592c11;
+	font-size: 3vh;
+	background-color: transparent;
+	cursor: pointer;
+	border-radius: 8px;
+	padding: 1vh 2vh;
+}
+
+.button_continentes button:hover {
+	color: #f4dfc8;
+	background-color: #b57735ab;
+	transition: .3s;
+}
+
+#searchInput {
+	width: 50vh;
+	background-color: #eacda89c;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+	border: none;
+	padding: 2.5vh;
+	border-radius: 2vh;
+}
+
+.search:hover {
+	color: #fff;
+}
+
+#searchInput:hover {
+	background-color: #fee0ba;
+}
+
+.line_header img{
+	width: 95%;
+	text-align: center;
+}
+
+.container_paises {
+	display: flex;
+	flex-direction: row; /* Altera a direção dos itens para coluna */
+	align-items: center;
+	background-color: #eacda89c;
+	border-radius: 2vh;
+	margin:0 2vh 2vh 2vh;
+	padding: 20px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.container_paises .img_pais {
+	margin-bottom: 20px;
+}
+
+.container_paises img {
+	width: 60vh;
+	height: 30vh;
+	border-radius: 2vh;
+	margin-right: 5vh;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.container_paises h2 {
+	font-size: 5vh;
+	font-weight: bold;
+	margin: 1vh 0;
+	color: #592c11;
+}
+
+.container_paises p {
+	margin: 2px;
+}
+
+.text_desc {
+	width: 50vh;
+	text-align: left;
+}
+
+.container_paises button {
+	border: none;
+	border-radius: 2vh;
+	padding: 2vh;
+	background-color: #592c11;
+	color: #f4dfc8;
+	margin-top: 2vh;
+	font-size: 2.5vh;
+	cursor: pointer;
+}
+
+.container_paises button:hover {
+	background-color: #b57735ab;
+	color: #f4dfc8;
+	transition: .3s;
+}
+
+.footer_container {
+	background-color: #592c11;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 3vh;
+	padding: 2vh 5vh;
+}
+
+.text_footer {
+	color: #f4dfc8;
+}
+
+.img_footer img {
+	width: 15vh;
+}
+

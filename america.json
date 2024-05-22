@@ -1,0 +1,112 @@
+[
+  {
+    "descricao": "Viagem para o Parque Nacional de Yellowstone, EUA.",
+    "img": "https://brasiltravelnews.com.br/wp-content/uploads/2021/09/yellowstone-parc-national.jpg",
+    "pais": "Estados Unidos",
+    "dia_da_viagem": "Fechado",
+    "ponto_turistico": "Parque Nacional de Yellowstone",
+    "temporada": "Verao",
+    "moeda": "Dolar americano (USD)",
+    "valor_da_viagem": 300.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para o Banff National Park, Canada.",
+    "img": "https://static.toiimg.com/photo/55704503.cms",
+    "pais": "Canada",
+    "dia_da_viagem": "Aberto",
+    "ponto_turistico": "Banff National Park",
+    "temporada": "Outono",
+    "moeda": "Dolar canadense (CAD)",
+    "valor_da_viagem": 400.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para Chichen Itza, Mexico.",
+    "img": "https://media.istockphoto.com/id/481272289/pt/foto/templo-de-el-castillo-de-chichen-itz%C3%A1-ao-p%C3%B4r-do-sol-m%C3%A9xico.jpg?s=612x612&w=0&k=20&c=zLQeOdC8GyqFBkl9vJ1X4EJbpwBtBxhDGgAveH-gicg=",
+    "pais": "Mexico",
+    "dia_da_viagem": "Aberto",
+    "ponto_turistico": "Chichen Itza",
+    "temporada": "Primavera",
+    "moeda": "Peso mexicano (MXN)",
+    "valor_da_viagem": 500.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para o Cristo Redentor, Rio de Janeiro, Brasil.",
+    "img": "https://toptransferbrasil.com.br/wp-content/uploads/2019/10/cristo-redentor-3.jpg",
+    "pais": "Brasil",
+    "dia_da_viagem": "Fechado",
+    "ponto_turistico": "Cristo Redentor, Rio de Janeiro",
+    "temporada": "Verao",
+    "moeda": "Real brasileiro (BRL)",
+    "valor_da_viagem": 600.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para o Glaciar Perito Moreno, Argentina.",
+    "img": "https://www.palaboratorio.com.br/doutor/uploads/2/blog/2018/01/blog-glaciar-perito-moreno-7c35badd25.jpg",
+    "pais": "Argentina",
+    "dia_da_viagem": "Aberto",
+    "ponto_turistico": "Glaciar Perito Moreno",
+    "temporada": "Primavera",
+    "moeda": "Peso argentino (ARS)",
+    "valor_da_viagem": 710.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para Machu Picchu, Peru.",
+    "img": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/49598_FB709B6C2250A9FB-1.jpg?w=1220&h=674&crop=1",
+    "pais": "Peru",
+    "dia_da_viagem": "Fechado",
+    "ponto_turistico": "Machu Picchu",
+    "temporada": "Outono",
+    "moeda": "Sol peruano (PEN)",
+    "valor_da_viagem": 630.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para o Deserto do Atacama, Chile.",
+    "img": "https://www.desertodoatacama.com/wp-content/uploads/2021/08/deserto-do-atacama-chile.jpg",
+    "pais": "Chile",
+    "dia_da_viagem": "Aberto",
+    "ponto_turistico": "Deserto do Atacama",
+    "temporada": "Primavera",
+    "moeda": "Peso chileno (CLP)",
+    "valor_da_viagem": 150.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para o Parque Nacional Manuel Antonio, Costa Rica.",
+    "img": "https://www.visitcostarica.com/sites/default/files/BANNER-MANUEL-ANTONIO.jpg",
+    "pais": "Costa Rica",
+    "dia_da_viagem": "Fechado",
+    "ponto_turistico": "Parque Nacional Manuel Antonio",
+    "temporada": "Verao",
+    "moeda": "Colon costa-riquenho (CRC)",
+    "valor_da_viagem": 380.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para a Cidade Perdida (Teyuna), Colombia.",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/25/5f/f7/ciudad-perdida.jpg?w=1200&h=1200&s=1",
+    "pais": "Colombia",
+    "dia_da_viagem": "Fechado",
+    "ponto_turistico": "Cidade Perdida (Teyuna)",
+    "temporada": "Verao",
+    "moeda": "Peso colombiano (COP)",
+    "valor_da_viagem": 680.00,
+		"avaliacao": 4.5
+  },
+  {
+    "descricao": "Viagem para Havana Vieja, Cuba.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOW1xXDpD32bULapCIYE06rdEaGRfTJp_XdAtyERSLA&s",
+    "pais": "Cuba",
+    "dia_da_viagem": "Aberto",
+    "ponto_turistico": "Havana Vieja",
+    "temporada": "Inverno",
+    "moeda": "Peso cubano (CUP) e peso conversivel cubano (CUC)",
+    "valor_da_viagem": 820.00,
+		"avaliacao": 4.5
+	}
+]

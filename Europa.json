@@ -1,0 +1,101 @@
+[
+    {
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Panoramic_photograph_of_interior_of_Colosseum.jpg/900px-Panoramic_photograph_of_interior_of_Colosseum.jpg",
+      "país": "Itália",
+      "descrição": "A Itália é um destino cheio de história, arte e cultura. Além de visitar o icônico Coliseu em Roma, você pode explorar as ruínas antigas, desfrutar da deliciosa culinária italiana e apreciar a beleza das paisagens da Toscana e da Costa Amalfitana.",
+      "ponto_turistico": "Coliseu em Roma",
+      "temporada": "Verão",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://live.staticflickr.com/8331/8143961573_022f824bc3_b.jpg",
+      "país": "França",
+      "descrição": "Paris é conhecida como a Cidade Luz e é famosa por sua arquitetura deslumbrante, culinária requintada e uma infinidade de museus e galerias de arte. A Torre Eiffel é apenas um dos muitos marcos incríveis que esta cidade tem a oferecer.",
+      "ponto_turistico": "Torre Eiffel em Paris",
+      "temporada": "Primavera",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://as2.ftcdn.net/v2/jpg/02/33/26/35/1000_F_233263548_RiTO09N02wxwvxkhI9bEP6PkjtEcTiKk.jpg",
+      "país": "Espanha",
+      "descrição": "A Espanha é um país vibrante e diversificado, e Barcelona é uma cidade que combina arquitetura modernista com uma cena cultural animada. Além de visitar a impressionante Sagrada Família, você pode desfrutar de praias ensolaradas, gastronomia deliciosa e uma vida noturna agitada.",
+      "ponto_turistico": "La Sagrada Família em Barcelona",
+      "temporada": "Verão",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://s4.static.brasilescola.uol.com.br/be/2023/05/fachada-do-palacio-de-buckingham.jpg",
+      "país": "Reino Unido",
+      "descrição": "Londres é uma cidade cosmopolita repleta de história e cultura. Além de ver a troca da guarda no Palácio de Buckingham, você pode explorar museus de classe mundial, parques encantadores e bairros cheios de charme.",
+      "ponto_turistico": "Palácio de Buckingham em Londres",
+      "temporada": "Outono",
+      "moeda": "Libra Esterlina",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://www.shutterstock.com/image-photo/acropolis-athens-600nw-156966542.jpg",
+      "país": "Grécia",
+      "descrição": "A Grécia é o berço da civilização ocidental e possui uma riqueza incomparável de sítios arqueológicos e belezas naturais. Além de visitar a Acrópole em Atenas, você pode explorar ilhas deslumbrantes, como Santorini e Mykonos.",
+      "ponto_turistico": "Acrópole de Atenas",
+      "temporada": "Verão",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://media.istockphoto.com/id/1082419614/pt/foto/bell-tower-of-clerigos-church-baroque-church-in-the-city-of-porto-portugal.jpg?s=612x612&w=0&k=20&c=JKceLxMOj_uvrO8c95_OwKezrqWbGHbv8gRuFjqHQMg=",
+      "país": "Portugal",
+      "descrição": "Portugal é um país encantador com uma rica história marítima e paisagens deslumbrantes. O Porto é uma cidade pitoresca conhecida por sua arquitetura histórica, vinho do Porto e culinária deliciosa.",
+      "ponto_turistico": "Torre dos Clérigos no Porto",
+      "temporada": "Primavera",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://cdn.pixabay.com/photo/2020/05/01/15/18/brand-front-of-the-brandenburg-gate-5117579_1280.jpg",
+      "país": "Alemanha",
+      "descrição": "Berlim é uma cidade pulsante e moderna que também preserva vestígios de sua história tumultuada. Além de ver o Portão de Brandemburgo, você pode explorar museus fascinantes, arte de rua vibrante e uma cena cultural diversificada.",
+      "ponto_turistico": "Portão de Brandemburgo em Berlim",
+      "temporada": "Verão",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://watermark.lovepik.com/photo/20211126/large/lovepik-ice-and-snow-on-girl-peak-in-the-swiss-alps-picture_501146908.jpg",
+      "país": "Suíça",
+      "descrição": "A Suíça é um paraíso para os amantes da natureza, com suas deslumbrantes paisagens alpinas e lagos cristalinos. Jungfraujoch é uma estação de trem de alta altitude onde você pode desfrutar de vistas panorâmicas incríveis dos Alpes Suíços.",
+      "ponto_turistico": "Jungfraujoch nos Alpes Suíços",
+      "temporada": "Inverno",
+      "moeda": "Franco Suíço",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    },
+    {
+      "imagem": "https://live.staticflickr.com/5672/23157848709_f6227843d1_b.jpg",
+      "país": "Holanda",
+      "descrição": "Amsterdã é uma cidade cosmopolita conhecida por seus canais pitorescos, museus de classe mundial e uma atmosfera descontraída. O Museu Van Gogh abriga uma das maiores coleções de obras do famoso pintor holandês e é uma parada obrigatória para os amantes da arte.",
+      "ponto_turistico": "Museu Van Gogh em Amsterdã",
+      "temporada": "Primavera",
+      "moeda": "Euro",
+      "valor_da_viagem": "",
+      "dia_da_viagem": "",
+      "avaliacao": 4.5
+    }
+  ]
