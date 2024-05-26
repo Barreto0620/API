@@ -18,7 +18,7 @@ fetch("http://localhost:8080/Africa") //exibe os dados dos filmes puxados do fil
 		<p> <strong> Por que Visitar: </strong> ${Africa.porque_visitar} <p/>
 		<p> <strong> Avaliação do País: </strong> ${Africa.avaliacao} <p/>
 		<p> <strong> Valor da viagem: </strong> ${Africa.valor_da_viagem} <p/>
-    <button onclick="alert('Passagem esgotada')"> Comprar Passagem </button>
+    <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
     </div>
     </div> `;
       africaList.appendChild(africaDiv);

@@ -8,17 +8,17 @@ fetch("http://localhost:8080/Asia") //exibe os dados dos filmes puxados do filme
       const asiaDiv = document.createElement("div");
       asiaDiv.innerHTML = ` 
       <div class="container_paises">
-      <img src = "${Asia.imagem2}" alt = "${Asia.nome}">
+      <img src = "${Asia.imagem}" alt = "${Asia.nome}">
       <div class="text_desc">
       <h2 class="nome_pais"> ${Asia.nome} </h2>
-      <p> <strong> Data do Próximo Vôo:</strong> ${Asia.dia_viagem} <p/>
+      <p> <strong> Data do Próximo Vôo:</strong> ${Asia.dia_da_viagem} <p/>
       <p> <strong> Ponto Turistico: </strong> ${Asia.ponto_turistico} <p/>
       <p> <strong> Temporada: </strong> ${Asia.temporada} <p/>
       <p> <strong> Moeda Oficial: </strong> ${Asia.moeda} <p/>
-      <p> <strong> Por que Visitar: </strong> ${Asia.descricao} <p/>
+      <p> <strong> Por que Visitar: </strong> ${Asia.porque_visitar} <p/>
       <p> <strong> Avaliação do País: </strong> ${Asia.avaliacao} <p/>
-      <p> <strong> Valor da viagem: </strong> ${Asia.val_viagem} <p/>
-      <button onclick="alert('Passagem esgotada')"> Comprar Passagem </button>
+      <p> <strong> Valor da viagem: </strong> ${Asia.valor_da_viagem} <p/>
+      <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
       </div>
       </div> `;
     asiaList.appendChild(asiaDiv);

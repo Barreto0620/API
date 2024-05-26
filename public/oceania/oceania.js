@@ -8,17 +8,17 @@ data.forEach((Oceania) => {
 	const oceaniaDiv = document.createElement("div");
 	oceaniaDiv.innerHTML = ` 
 	<div class="container_paises">
-	<img src = "${Oceania.img_link}" alt = "${Oceania.nome}">
+	<img src = "${Oceania.imagem}" alt = "${Oceania.nome}">
 	<div class="text_desc">
 	<h2 class="nome_pais"> ${Oceania.nome} </h2>
 	<p> <strong> Data do Próximo Vôo:</strong> ${Oceania.dia_da_viagem} <p/>
 	<p> <strong> Ponto Turistico: </strong> ${Oceania.ponto_turistico} <p/>
 	<p> <strong> Temporada: </strong> ${Oceania.temporada} <p/>
 	<p> <strong> Moeda Oficial: </strong> ${Oceania.moeda} <p/>
-	<p> <strong> Por que Visitar: </strong> ${Oceania.descricao} <p/>
+	<p> <strong> Por que Visitar: </strong> ${Oceania.porque_visitar} <p/>
 	<p> <strong> Avaliação do País: </strong> ${Oceania.avaliacao} <p/>
 	<p> <strong> Valor da viagem: </strong> ${Oceania.valor_da_viagem} <p/>
-	<button onclick="alert('Passagem esgotada')"> Comprar Passagem </button>
+	<button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
 	</div>
 	</div> `;
 oceaniaList.appendChild(oceaniaDiv);

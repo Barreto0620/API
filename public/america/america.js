@@ -8,17 +8,17 @@ fetch("http://localhost:8080/America") //exibe os dados dos filmes puxados do fi
       const americaDiv = document.createElement("div");
       americaDiv.innerHTML = ` 
       <div class="container_paises">
-      <img src = "${America.img}" alt = "${America.pais}">
+      <img src = "${America.imagem}" alt = "${America.nome}">
       <div class="text_desc">
-      <h2 class="nome_pais"> ${America.pais} </h2>
+      <h2 class="nome_pais"> ${America.nome} </h2>
       <p> <strong> Data do Próximo Vôo:</strong> ${America.dia_da_viagem} <p/>
       <p> <strong> Ponto Turistico: </strong> ${America.ponto_turistico} <p/>
       <p> <strong> Temporada: </strong> ${America.temporada} <p/>
       <p> <strong> Moeda Oficial: </strong> ${America.moeda} <p/>
-      <p> <strong> Por que Visitar: </strong> ${America.descricao} <p/>
+      <p> <strong> Por que Visitar: </strong> ${America.porque_visitar} <p/>
       <p> <strong> Avaliação do País: </strong> ${America.avaliacao} <p/>
       <p> <strong> Valor da viagem: </strong> ${America.valor_da_viagem} <p/>
-      <button onclick="alert('Passagem esgotada')"> Comprar Passagem </button>
+      <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
       </div>
       </div> `;
     americaList.appendChild(americaDiv);

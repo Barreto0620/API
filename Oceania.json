@@ -1,89 +1,122 @@
 [
-    {
+  {
+      "id": "1",
+      "imagem": "https://rics.scene7.com/is/image/rics/Modus_july22_sydneyoperahouse_landscape_header?$article-big-img-desktop$&qlt=85,1&op_sharpen=1",
       "nome": "Austrália",
-      "dia_da_viagem": "15 de julho de 2024",
+      "dia_da_viagem": "15 de julho",
       "ponto_turistico": "Opera House em Sydney",
       "temporada": "Inverno",
       "moeda": "Dólar Australiano (AUD)",
-      "valor_da_viagem": "A partir de $2000",
-      "descricao": "A Austrália é conhecida por sua vasta diversidade, desde a icônica Grande Barreira de Corais até o Outback australiano.",
-      "img_link": "https://rics.scene7.com/is/image/rics/Modus_july22_sydneyoperahouse_landscape_header?$article-big-img-desktop$&qlt=85,1&op_sharpen=1",
-      "avaliacao": "4.7/5"
-    },
-    {
+      "valor_da_viagem": "2000 USD",
+      "porque_visitar": "A Austrália é conhecida por sua vasta diversidade, desde a icônica Grande Barreira de Corais até o Outback australiano.",
+      "avaliacao": "4.9/5"
+  },
+  {
+      "id": "2",
+      "imagem": "https://images.pexels.com/photos/4863995/pexels-photo-4863995.jpeg?auto=compress&cs=tinysrgb&w=600",
       "nome": "Nova Zelândia",
-      "dia_da_viagem": "22 de agosto de 2024",
+      "dia_da_viagem": "22 de agosto",
       "ponto_turistico": "Fiordland National Park",
       "temporada": "Inverno",
       "moeda": "Dólar da Nova Zelândia (NZD)",
-      "valor_da_viagem": "A partir de $2500",
-      "descricao": "A Nova Zelândia é famosa por suas paisagens deslumbrantes, incluindo fiordes, montanhas cobertas de neve e praias intocadas. É um paraíso para os amantes da natureza e dos esportes ao ar livre.",
-      "img_link": "https://images.pexels.com/photos/4863995/pexels-photo-4863995.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "avaliacao": "4.9/5"
-    },
-    {
+      "valor_da_viagem": "2500 USD",
+      "porque_visitar": "A Nova Zelândia é famosa por suas paisagens deslumbrantes, incluindo fiordes, montanhas cobertas de neve e praias intocadas. É um paraíso para os amantes da natureza e dos esportes ao ar livre.",
+      "avaliacao": "4.8/5"
+  },
+  {
+      "id": "3",
+      "imagem": "https://images.pexels.com/photos/4555543/pexels-photo-4555543.jpeg?auto=compress&cs=tinysrgb&w=600",
       "nome": "Papua-Nova Guiné",
-      "dia_da_viagem": "10 de junho de 2024",
+      "dia_da_viagem": "10 de junho",
       "ponto_turistico": "Vulcão Tavurvur",
       "temporada": "Verão",
       "moeda": "Kina Papua-Nova Guiné (PGK)",
-      "valor_da_viagem": "A partir de $1800",
-      "descricao": "Papua-Nova Guiné é conhecida por sua biodiversidade única, incluindo selvas tropicais, recifes de coral e uma rica cultura indígena.",
-      "img_link": "https://images.pexels.com/photos/4555543/pexels-photo-4555543.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "avaliacao": "4.5/5"
-    },
-    {
+      "valor_da_viagem": "1800 USD",
+      "porque_visitar": "Papua-Nova Guiné é conhecida por sua biodiversidade única, incluindo selvas tropicais, recifes de coral e uma rica cultura indígena.",
+      "avaliacao": "4.7/5"
+  },
+  {
+      "id": "4",
+      "imagem": "https://images.pexels.com/photos/346972/pexels-photo-346972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nome": "Fiji",
-      "dia_da_viagem": "5 de setembro de 2024",
+      "dia_da_viagem": "5 de setembro",
       "ponto_turistico": "Blue Lagoon",
       "temporada": "Verão",
       "moeda": "Dólar de Fiji (FJD)",
-      "valor_da_viagem": "A partir de $1500",
-      "descricao": "Fiji é um paraíso tropical conhecido por suas praias de areia branca, águas cristalinas e hospitalidade calorosa.",
-      "img_link": "https://images.pexels.com/photos/346972/pexels-photo-346972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "valor_da_viagem": "1500 USD",
+      "porque_visitar": "Fiji é um paraíso tropical conhecido por suas praias de areia branca, águas cristalinas e hospitalidade calorosa.",
       "avaliacao": "4.6/5"
-    },
-    {
+  },
+  {
+      "id": "5",
+      "imagem": "https://images.pexels.com/photos/5269340/pexels-photo-5269340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nome": "Ilhas Salomão",
-      "dia_da_viagem": "20 de julho de 2024",
+      "dia_da_viagem": "20 de julho",
       "ponto_turistico": "Marovo Lagoon",
       "temporada": "Inverno",
       "moeda": "Dólar das Ilhas Salomão (SBD)",
-      "valor_da_viagem": "A partir de $1700",
-      "descricao": "As Ilhas Salomão são um destino de eco-turismo incrível, com suas lagoas de água cristalina, florestas tropicais exuberantes e rica cultura local.",
-      "img_link": "https://images.pexels.com/photos/5269340/pexels-photo-5269340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "avaliacao": "4.4/5"
-    },
-    {
+      "valor_da_viagem": "1700 USD",
+      "porque_visitar": "As Ilhas Salomão são um destino de eco-turismo incrível, com suas lagoas de água cristalina, florestas tropicais exuberantes e rica cultura local.",
+      "avaliacao": "4.5/5"
+  },
+  {
+      "id": "6",
+      "imagem": "https://images.pexels.com/photos/19984926/pexels-photo-19984926/free-photo-of-panorama-vista-paisagem-natureza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nome": "Vanuatu",
-      "dia_da_viagem": "3 de agosto de 2024",
+      "dia_da_viagem": "3 de agosto",
       "ponto_turistico": "Mont Yasur",
       "temporada": "Inverno",
       "moeda": "Vatu de Vanuatu (VUV)",
-      "valor_da_viagem": "A partir de $1600",
-      "descricao": "Vanuatu é um paraíso para os amantes da aventura, com seus vulcões ativos, praias isoladas e mergulho de classe mundial.",
-      "img_link": "https://images.pexels.com/photos/19984926/pexels-photo-19984926/free-photo-of-panorama-vista-paisagem-natureza.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "avaliacao": "4.3/5"
-    },
-    {
+      "valor_da_viagem": "1600 USD",
+      "porque_visitar": "Vanuatu é um paraíso para os amantes da aventura, com seus vulcões ativos, praias isoladas e mergulho de classe mundial.",
+      "avaliacao": "4.6/5"
+  },
+  {
+      "id": "7",
+      "imagem": "https://images.pexels.com/photos/1449596/pexels-photo-1449596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nome": "Nova Caledônia",
-      "dia_da_viagem": "12 de maio de 2024",
+      "dia_da_viagem": "12 de maio",
       "ponto_turistico": "Île des Pins",
       "temporada": "Outono",
       "moeda": "Franco CFP (XPF)",
-      "valor_da_viagem": "A partir de $1900",
-      "descricao": "Nova Caledônia é conhecida por suas lagoas azul-turquesa, recifes de coral coloridos e cultura Kanak única.",
-      "img_link": "https://images.pexels.com/photos/1449596/pexels-photo-1449596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "avaliacao": "4.6/5"
-    },
-    {
+      "valor_da_viagem": "1900 USD",
+      "porque_visitar": "Nova Caledônia é conhecida por suas lagoas azul-turquesa, recifes de coral coloridos e cultura Kanak única.",
+      "avaliacao": "4.5/5"
+  },
+  {
+      "id": "8",
+      "imagem": "https://static.poder360.com.br/2022/01/Tonga-848x477.jpg",
       "nome": "Tonga",
-      "dia_da_viagem": "8 de setembro de 2024",
+      "dia_da_viagem": "8 de setembro",
       "ponto_turistico": "Ha'atafu Beach",
       "temporada": "Primavera",
       "moeda": "Pa'anga de Tonga (TOP)",
-      "valor_da_viagem": "A partir de $1800",
-      "descricao": "Tonga é um destino paradisíaco, com suas praias de areia branca, águas cristalinas e vida marinha exuberante.",
-      "img_link": "https://static.poder360.com.br/2022/01/Tonga-848x477.jpg"
-		}
-	]
+      "valor_da_viagem": "1800 USD",
+      "porque_visitar": "Tonga é um destino paradisíaco, com suas praias de areia branca, águas cristalinas e vida marinha exuberante.",
+      "avaliacao": "4.7/5"
+  },
+  {
+      "id": "9",
+      "imagem": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2023/01/Samoa-Lalomanu-beach-lined-with-fales-open-huts-blog-1699130365-ss-800x450-2-425x239.jpg ",
+      "nome": "Samoa",
+      "dia_da_viagem": "17 de junho",
+      "ponto_turistico": "To-Sua Ocean Trench",
+      "temporada": "Verão",
+      "moeda": "Tala (WST)",
+      "valor_da_viagem": "1400 USD",
+      "porque_visitar": "Samoa é conhecida por suas paisagens tropicais exuberantes, incluindo piscinas naturais, cachoeiras e praias de areia branca.",
+      "avaliacao": "4.5/5"
+  },
+  {
+      "id": "10",
+      "imagem": "https://images.pexels.com/photos/3032008/pexels-photo-3032008.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "nome": "Kiribati",
+      "dia_da_viagem": "29 de julho",
+      "ponto_turistico": "Ilha Christmas",
+      "temporada": "Inverno",
+      "moeda": "Dólar australiano (AUD)",
+      "valor_da_viagem": "1300 USD",
+      "porque_visitar": "Kiribati é um paraíso para mergulhadores, conhecido por seus recifes de coral e vida marinha abundante.",
+      "avaliacao": "4.8/5"
+  }
+]

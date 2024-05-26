@@ -8,17 +8,17 @@ fetch("http://localhost:8080/Europa") //exibe os dados dos filmes puxados do fil
       const europaDiv = document.createElement("div");
       europaDiv.innerHTML = ` 
       <div class="container_paises">
-      <img src = "${Europa.imagem}" alt = "${Europa.país}">
+      <img src = "${Europa.imagem}" alt = "${Europa.nome}">
       <div class="text_desc">
-      <h2 class="nome_pais"> ${Europa.país} </h2>
+      <h2 class="nome_pais"> ${Europa.nome} </h2>
       <p> <strong> Data do Próximo Vôo:</strong> ${Europa.dia_da_viagem} <p/>
       <p> <strong> Ponto Turistico: </strong> ${Europa.ponto_turistico} <p/>
       <p> <strong> Temporada: </strong> ${Europa.temporada} <p/>
       <p> <strong> Moeda Oficial: </strong> ${Europa.moeda} <p/>
-      <p> <strong> Por que Visitar: </strong> ${Europa.descricao} <p/>
+      <p> <strong> Por que Visitar: </strong> ${Europa.porque_visitar} <p/>
       <p> <strong> Avaliação do País: </strong> ${Europa.avaliacao} <p/>
       <p> <strong> Valor da viagem: </strong> ${Europa.valor_da_viagem} <p/>
-      <button onclick="alert('Passagem esgotada')"> Comprar Passagem </button>
+      <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
       </div>
       </div> `;
     europaList.appendChild(europaDiv);
