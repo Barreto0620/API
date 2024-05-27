@@ -18,7 +18,7 @@ fetch("http://localhost:8080/Asia") //exibe os dados dos filmes puxados do filme
       <p> <strong> Por que Visitar: </strong> ${Asia.porque_visitar} <p/>
       <p> <strong> Avaliação do País: </strong> ${Asia.avaliacao} <p/>
       <p> <strong> Valor da viagem: </strong> ${Asia.valor_da_viagem} <p/>
-      <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
+      <button onclick="comprarPassagem('${Asia.nome}')">Comprar Passagem</button>
       </div>
       </div> `;
     asiaList.appendChild(asiaDiv);
@@ -26,7 +26,16 @@ fetch("http://localhost:8080/Asia") //exibe os dados dos filmes puxados do filme
   })
   .catch((error) => console.error("Erro ao carregar os paises:", error));
 
-
+  function comprarPassagem(nomeDoPais) {
+    // Aqui você pode personalizar a mensagem de acordo com o país selecionado
+    Swal.fire({
+      icon: 'warning',
+      title: 'Passagem Esgotada!',
+      text: `Infelizmente as passagens para ${nomeDoPais} estão esgotadas no momento.`,
+      confirmButtonColor: '#3085d6',
+      confirmButtonText: 'Entendi'
+    });
+  }
   
   // barra de pesquisa
 

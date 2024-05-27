@@ -18,7 +18,7 @@ data.forEach((Oceania) => {
 	<p> <strong> Por que Visitar: </strong> ${Oceania.porque_visitar} <p/>
 	<p> <strong> Avaliação do País: </strong> ${Oceania.avaliacao} <p/>
 	<p> <strong> Valor da viagem: </strong> ${Oceania.valor_da_viagem} <p/>
-	<button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
+	<button onclick="comprarPassagem('${Oceania.nome}')">Comprar Passagem</button>
 	</div>
 	</div> `;
 oceaniaList.appendChild(oceaniaDiv);
@@ -26,6 +26,16 @@ oceaniaList.appendChild(oceaniaDiv);
 })
 .catch(error => console.error("Erro ao carregar os países:", error));
 
+function comprarPassagem(nomeDoPais) {
+	// Aqui você pode personalizar a mensagem de acordo com o país selecionado
+	Swal.fire({
+	  icon: 'warning',
+	  title: 'Passagem Esgotada!',
+	  text: `Infelizmente as passagens para ${nomeDoPais} estão esgotadas no momento.`,
+	  confirmButtonColor: '#3085d6',
+	  confirmButtonText: 'Entendi'
+	});
+  }
 
   // barra de pesquisa
 

@@ -18,13 +18,25 @@ fetch("http://localhost:8080/Africa") //exibe os dados dos filmes puxados do fil
 		<p> <strong> Por que Visitar: </strong> ${Africa.porque_visitar} <p/>
 		<p> <strong> Avaliação do País: </strong> ${Africa.avaliacao} <p/>
 		<p> <strong> Valor da viagem: </strong> ${Africa.valor_da_viagem} <p/>
-    <button onclick="alert('Passagem esgotada !')"> Comprar Passagem </button>
+    <button onclick="comprarPassagem('${Africa.nome}')">Comprar Passagem</button>
     </div>
     </div> `;
       africaList.appendChild(africaDiv);
     });
   })
   .catch((error) => console.error("Erro ao carregar os paises:", error));
+
+  function comprarPassagem(nomeDoPais) {
+    // Aqui você pode personalizar a mensagem de acordo com o país selecionado
+    Swal.fire({
+      icon: 'warning',
+      title: 'Passagem Esgotada!',
+      text: `Infelizmente as passagens para ${nomeDoPais} estão esgotadas no momento.`,
+      confirmButtonColor: '#3085d6',
+      confirmButtonText: 'Entendi'
+    });
+  }
+  
 
   // barra de pesquisa
 
